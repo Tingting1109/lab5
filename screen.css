@@ -8,10 +8,9 @@
   h1
   {
 	  color: white;
-	  font-family:'Luckiest Guy', cursive, sans-serif;
+	  font-family: candyBeans;
           font-weight: 500;
-          text-align: center;
-          font-size: 3em;
+          font-size: 3.5em;
           padding: 20px 10px 10px 10px;
           margin: 30px 10px;
   }
@@ -19,7 +18,7 @@
   h2
   {
 	  color: white;
-	  font-family:'Audiowide', cursive, sans-serif;
+	  font-family: candyBeans;
           font-size: 1.4em;
           padding: 8px 5px 8px 5px;
           margin: 8px 5px 8px 5px;
@@ -28,7 +27,7 @@
   p
   {
 	  color: white;
-          font-family: 'Comfortaa', cursive, sans-serif;
+          font-family: candyBeans;
           text-align: justify;
           text-indent: 2em;
           font-size: 16px;
